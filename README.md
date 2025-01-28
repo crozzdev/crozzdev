@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 , I'm Juan Toro (a.k.a CrozzDev)</h1>
-<h3 align="center">Python Developer with 6+ years specializing in Backend Systems, Automation, Cybersecurity, and, most recently, AI Solutions with LLM Expertise. Currently exploring FullStack development, 'cause who doesn’t love the idea of being a one-person army?</h3>
+<h3 align="center">Python Developer with 6+ years specializing in Backend Systems, Automation, Cybersecurity, and, most recently, AI Solutions with LLM Expertise. Currently getting deeper in the FullStack development, 'cause who doesn’t love the idea of being a one-person army?</h3>
 
 
 <p align="center">
@@ -28,7 +28,7 @@
 - ⚡ Fun fact **When I’m not cracking my head over a challenge or diving into FullStack magic, you’ll find me leveling up in my favorite video games, hitting the gym, or being hilariously outsmarted by my dog and cat duo—my ultimate teammates at home!**
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> Languages and Tools:</h3>
 <p align="center">
   <!-- Python -->
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python">
