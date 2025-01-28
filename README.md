@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<h3>A little about me:</h3>
+<h3>A bit more about me:</h3>
 
 - 🔭 I’m currently working on **different LLM based solutions and Financial and news WebScrappers**
 
