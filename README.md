@@ -21,11 +21,11 @@
 
 - 👨‍💻 All of my projects are available at [portfolio site under construction](portfolio site under construction)
 
-- 💬 Ask me about **Python, LLM based apps, APIS integration, webscrapping**
+- 💬 Ask me about: **Python, LLM based apps, APIS integrations, webscrapping**
 
-- 📫 How to reach me **Send me an email to crozzdev95@outlook.com**
+- 📫 How to reach me: **Send me an email to crozzdev95@outlook.com**
 
-- ⚡ Fun fact **When I’m not cracking my head over a challenge or diving into FullStack magic, you’ll find me leveling up in my favorite video games, hitting the gym, or being hilariously outsmarted by my dog and cat duo—my ultimate teammates at home!**
+- ⚡ Curious and Fun fact: **When I’m not cracking my head over a challenge or diving into FullStack magic, you’ll find me leveling up in my favorite video games, hitting the gym, or being hilariously outsmarted by my dog and cat duo—my ultimate teammates at home!**
 
 
 <h3 align="left"> Languages and Tools:</h3>
