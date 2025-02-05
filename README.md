@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **React, Next.js, AWS, Docker and Kubernetes, RAG integrations**
 
-- 👨‍💻 All of my projects are available at [portfolio site under construction](portfolio site under construction)
+- 👨‍💻 You can find my personal projects here on my GitHub but my professional projects are for private companies with non disclosure agreement, which is why you won't find them here, but we can discuss them further on a call if you want. 
 
 - 💬 Ask me about: **Python, LLM based apps, APIS integrations, webscrapping**
 
